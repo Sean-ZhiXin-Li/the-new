@@ -1,0 +1,134 @@
+[
+  {
+    "param": 0.2,
+    "value": 0.8,
+    "passed": false,
+    "timestamp": "2025-12-27T15:16:07.508734",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "legacy_missing_reason"
+  },
+  {
+    "param": 0.2,
+    "value": 0.8,
+    "passed": false,
+    "timestamp": "2025-12-28T15:46:44.238283",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 0.6,
+    "value": 0.4,
+    "passed": false,
+    "timestamp": "2025-12-28T15:58:01.172033",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 0.2,
+    "value": 0.8,
+    "passed": false,
+    "timestamp": "2025-12-29T15:24:45.498581",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 22.0,
+    "value": 21.0,
+    "passed": true,
+    "timestamp": "2025-12-29T15:25:50.828464",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": null
+  },
+  {
+    "param": -0.2,
+    "value": 1.2,
+    "passed": false,
+    "timestamp": "2025-12-30T15:18:34.785020",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 0.2,
+    "value": 0.8,
+    "passed": false,
+    "timestamp": "2025-12-30T15:18:50.056533",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 0.45,
+    "value": 0.55,
+    "passed": false,
+    "timestamp": "2025-12-31T14:47:09.479963",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 120.0,
+    "value": 119.0,
+    "passed": true,
+    "timestamp": "2025-12-31T14:47:23.575660",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": null
+  },
+  {
+    "param": 0.66666,
+    "value": 0.33333999999999997,
+    "passed": false,
+    "timestamp": "2025-12-31T14:54:11.324607",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param <= 1"
+  },
+  {
+    "param": 0.76895,
+    "value": 0.23104999999999998,
+    "passed": false,
+    "timestamp": "2025-12-31T14:56:27.696316",
+    "bad": [
+      1,
+      2,
+      3
+    ],
+    "failure_reason": "param_le_1"
+  }
+]

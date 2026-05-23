@@ -1,0 +1,6 @@
+# Phase B artifacts (never commit)
+phase_b/experiments/
+
+# Python cache
+__pycache__/
+*.pyc

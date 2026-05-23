@@ -1,0 +1,25 @@
+# IDE / build
+.idea/
+cmake-build-debug/
+
+# Compiled binaries
+*.exe
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+
+# Data / model artifacts
+*.npy
+*.npz
+*.pt
+*.pth
+
+# Logs / outputs
+logs/
+outputs/

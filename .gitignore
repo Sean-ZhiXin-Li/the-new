@@ -23,3 +23,12 @@ venv/
 # Logs / outputs
 logs/
 outputs/
+# Object files
+*.o
+
+# Build directory
+build/
+
+.pytest_cache/
+
+.vscode/
